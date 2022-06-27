@@ -17,7 +17,7 @@ def equals():
         equation_label.set(total)
 
         equation_text = total
-    except ZeroDivisionError:
+    except  ZeroDivisionError:
         equation_label.set("eroare de impartire")
 
         equation_text = ""
@@ -37,7 +37,7 @@ def clear():
 
 window = Tk()
 window.title("Calculator_Lucian")
-window.geometry("440x600")
+window.geometry("380x500")
 
 equation_text = ""
 equation_label = StringVar()
