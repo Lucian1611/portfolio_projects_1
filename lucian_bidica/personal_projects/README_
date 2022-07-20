@@ -1,0 +1,10 @@
+The two projects are some of the cool things I learned in one of the courses I took.
+
+PROJECT 1
+The password_checker.py verifies if a given password was hacked or leaked in any of the recognized security breaches.
+It works with the password received from the command line as an argument: EXAMPLE: python_file_path> python password_checker.py the_password_you_want_to_check. 
+All the passwords are hashed and only the first five characters are sent to be checked.
+
+
+PROJECT 2
+The hacker_news_web_scraping.py is sorting all the news from https://news.ycombinator.com/ and prints the articles with more than 100 votes.
