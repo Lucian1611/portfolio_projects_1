@@ -1,0 +1,30 @@
+My calculator app can be used as a quick desktop calculator for basic math operations
+
+This calculator can be made executable following the steps below:
+
+1. CREATE A FOLDER ON YOUR COMPUTER (PREFERABLY ON DESKTOP)
+2. PUT THE calculator.py AND A CALCULATOR ICON OF YOUR CHOICE (DOWNLOAD FROM GOOGLE AN ICON (.ico) AND NAME IT calc)
+
+IN Command Prompt/ PowerShell
+3. INSTALL PYINSTALLER
+pip install pyinstaller
+4. CHANGE DIRECTORY POINTING TO YOUR DESKTOP FOLDER CONTAINING calculator (python file) and calc (ico file)
+pyinstaller -F -w -i calc.ico calculator.py
+                            where -F for all in one file;
+                                  -w for removing terminal window
+                                  -i calc.ico for adding a beautiful custom icon to .exe
+                                  calculator.py is your python file
+5. ON YOUR DESKTOP FOLDER, IN THE dist FOLDER YOU WILL HAVE THE calculator APP. DRAG IT TO YOUR DESKTOP AND
+DELETE THE FOLDER USED FOR THE ABOVE PURPOSE... YOU DON'T NEED IT ANYMORE
+6. ENJOY YOUR desktop calculator
+
+POSSIBLE ISSUES:
+"file not found"
+Solution: make sure your python and icon files' name don't have extensions (.py and .ico) in the desktop folder
+
+"pyinstaller is not recognized as an internal or external command"
+Solution: adding directory to the path. Edit System Variables > Environment Variables > System Variables > New > add pyinstaller path
+
+
+
+
