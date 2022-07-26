@@ -1,13 +1,13 @@
 ABOUT ME
-I am Lucian and started in Febuary this year my journy of rediscovering programming.
+I am Lucian and started in February this year my journey of rediscovering programming.
 I returned last year from the USA where I was invited 7 years ago to teach students with disabilities.
 The life circumstances concurred in such a way exposing me to Python... 
-... I loved it from the first time due to its simple sintax, its dynamic nature, and the ease of use.
-During my training I came across frameworks like Django and Flask, libraries, and data bases structures. 
-I am currently improving my knowledge and skill continously through diverse courses, turtorials, books, and cheat sheets.
+... I loved it from the first time due to its simple syntax, its dynamic nature, and the ease of use.
+During my training I came across frameworks like Django and Flask, libraries, and databases structures. 
+I am currently improving my knowledge and skill continuously through diverse courses, tutorials, books, and cheat sheets.
 
 
-SKILLS- continously updating and improving
+SKILLS- continuously updating and improving
 Python (programming language)
 SQL/MYSql
 Git/Github/Gitlab
@@ -19,6 +19,8 @@ Italian (conversational)
 
 PORTFOLIO PROJECTS:
 For my portfolio projects I decided to incorporate all my work on various topics: GUI, WebScraping, Data Science, OOP and more...
+As I included most of my projects , you will observe that, at the beginning, I took the long route (loops ove comprehensions, complicated solutions for easy problems etc.).
+
 
 COURSES TAKEN:
 IT Factory - Live course (with trainer) "Python" - 30 hours
